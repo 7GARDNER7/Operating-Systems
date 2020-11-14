@@ -1,0 +1,1 @@
+An Operating System (OS) is a program that controls the software and hardware on a computing device so as to make the device behave in a predictable but flexible way. The operating system is our interface between the user and the tool. 
